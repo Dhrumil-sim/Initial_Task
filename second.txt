@@ -1,1 +1,2 @@
 its a initial working of a second.txt file feature.
+now completed work of the second txt
